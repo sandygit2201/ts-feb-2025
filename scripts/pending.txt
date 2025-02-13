@@ -1,0 +1,2 @@
+swich case with true 
+for in loop
