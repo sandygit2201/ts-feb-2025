@@ -1,2 +1,4 @@
-swich case with true 
+switch case with true 
 for in loop
+code runner for playwright 
+AI self healing tools

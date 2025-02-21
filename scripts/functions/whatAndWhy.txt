@@ -1,0 +1,2 @@
+what is function? 
+- small block of reusable code

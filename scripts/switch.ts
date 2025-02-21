@@ -12,7 +12,7 @@ switch(true) {
       console.log("Fair"); 
      
    } 
-   case (score<50): { 
+   case (score==0): { 
       console.log("Poor"); 
      
    }  
